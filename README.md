@@ -1,0 +1,1 @@
+# Restaurant Website.This website was created solely for educational purposes as part of a school requirement. It is a fictional representation of a restaurant and is not affiliated with or endorsed by any real business. All content, images, and branding are used for learning and demonstration only, without any intent of commercial use or copyright infringement.
